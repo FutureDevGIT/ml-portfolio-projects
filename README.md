@@ -63,3 +63,38 @@ venv\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## 📌 Repo Structure
+
+```bash
+ml-portfolio-projects/
+│── README.md
+│── requirements.txt
+│── .gitignore
+│── utils/
+│── hr-analytics-attrition/
+│── student-performance-regression/
+│── fruit-classification-cnn/
+│── netflix-stock-forecasting/
+```
+---
+- Each project contains:
+  - data/ → Raw + processed data
+  - notebooks/ → EDA + modeling notebooks
+  - src/ → Scripts for training/inference/deployment
+  - models/ → Saved models
+  - reports/ → Visualizations, SHAP plots, metrics
+---
+
+## 📈 Roadmap
+
+- ✅ Phase 1: Tabular Projects (Attrition + Student Performance)
+- ✅ Phase 2: Computer Vision (Fruit Classification)
+- ✅ Phase 3: Time-Series Forecasting (Netflix Stock Prices)
+---
+
+## ✨ Author
+
+### 👤 FutureDevGIT — Machine Learning Engineer
+### 📧 Contact: cyphersafe21@gmail.com
