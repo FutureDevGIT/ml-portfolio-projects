@@ -1,0 +1,35 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+plotly
+
+# ML / DL
+xgboost
+lightgbm
+tensorflow
+torch
+torchvision
+torchaudio
+
+# NLP & Explainability
+spacy
+shap
+lime
+
+# Time Series
+statsmodels
+pmdarima
+prophet
+
+# Deployment
+streamlit
+gradio
+
+# Utils
+joblib
+tqdm
