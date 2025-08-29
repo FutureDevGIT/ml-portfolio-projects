@@ -1,0 +1,57 @@
+
+---
+
+## 📄 **`.gitignore`**
+
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+*.egg-info/
+.env
+.venv
+venv/
+ENV/
+env/
+*.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_save
+.notebook_history/
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.db
+*.sqlite
+*.zip
+*.tar.gz
+
+# Models
+models/
+*.h5
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
+
+# Reports
+reports/
+*.html
+*.pdf
+*.png
+*.jpg
+
+# IDE
+.vscode/
+.idea/
